@@ -1,0 +1,12 @@
+{
+    "server":"0.0.0.0",
+    "timeout":300,
+    "server_port":"PORT",
+    "password":"PWD",
+    "method":"aes-256-gcm",
+    "mode":"tcp_and_udp",
+    "nameserver":"8.8.8.8",
+    "fast_open":true,
+    "plugin":"/bin/v2ray-plugin",
+    "plugin_opts":"server"
+}
